@@ -1,5 +1,8 @@
 # Clustering-Asset-Tracking-Data
 
+![Full vs. Reduced Data](Clustering-Asset-Tracking-Data/Output/output_25_1.png)
+
+
 Using location information, clustering analysis was attempted using Machine Learning with the below information and resources.
 
 
