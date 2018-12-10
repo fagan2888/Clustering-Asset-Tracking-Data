@@ -3,7 +3,7 @@
 ![Full vs. Reduced Data](https://github.com/paulhgraham/Clustering-Asset-Tracking-Data/blob/master/Output/output_25_1.png)
 
 
-Using location information, clustering analysis was attempted using Machine Learning with the below information and resources.
+Using location information, clustering analysis was attempted using Machine Learning with the below information and resources in order to cluster data together to create critical points for route optimization.
 
 
 DBSCAN Density-Based Spatial Clustering of Applications with Noise. Finds core samples of high density and expands clusters from them. Good for data which contains clusters of similar density.
